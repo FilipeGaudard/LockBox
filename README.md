@@ -32,7 +32,7 @@ Este laboratório foca nas seguintes classificações de segurança:
 ### Quick Start
 1. Clone o repositório:
    ```
-   git clone [https://github.com/FilipeGaudard/LockBox.git](https://github.com/FilipeGaudard/LockBox.git)
+   git clone https://github.com/FilipeGaudard/LockBox.git
    cd LockBox
    ```
 
