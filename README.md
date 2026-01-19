@@ -37,12 +37,12 @@ Este laboratório foca nas seguintes classificações de segurança:
    ```
 
 2. Instale as dependências:
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 3. Execute a aplicação:
-```
-python app.py
-```
+   ```
+   python app.py
+   ```
 O servidor iniciará em http://localhost:5001
